@@ -1,0 +1,173 @@
+#title {
+  background-color: #ff4c68;
+  font-family: Montserrat-black;
+
+}
+@media(max-width:1028px) {
+  #title
+  {
+    text-align: center;
+  }
+}
+.h1 {
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  padding-bottom: 2rem;
+}
+
+.container-fluid {
+  padding: 3%;
+}
+
+.body {
+  font-family: Montserrat;
+}
+
+.navbar-brand {
+  font-family: crossorigin;
+  font-size: 2.5rem;
+}
+
+.collapse {
+  font-size: 1.5rem;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.title-image {
+  width: 10rem;
+  transform: rotate(25deg);
+  height: 22rem;
+  margin-top: 3rem;
+}
+@media(max-width:1028px) {
+  .title-image
+  {
+    position: static;
+    transform: rotate(0deg);
+
+  }
+}
+
+#features {
+  padding: 6%;
+
+}
+
+.icon {
+  font-size: 3rem;
+  color: #ef8172;
+  margin: 1rem;
+}
+
+h3 {
+  font-family: Montserrat bold;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.Dog {
+  margin-top: 3rem;
+  border-radius: 99%;
+  width: 10%;
+  margin: 20px;
+}
+#press
+{
+  background-color:#ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo
+{
+  width: 15%;
+  margin: 2rem;
+}
+.card-body
+{
+  text-align: center;
+}
+#pricing
+{
+  padding:4%;
+}
+.doggies
+{
+  text-align: center;
+  height: 18rem;
+  width: 20rem;
+  margin: 2rem;
+}
+.card-header
+{
+  text-align: center;
+}
+#features
+{
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+}
+#cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+  height: 16rem;
+  padding: 5%;
+}
+.last
+{
+  color: white;
+  line-height: 3rem;
+  padding-bottom: 3%;
+  font-size: 3.5rem;
+}
+
+@media(max-width:1028px) {
+  #cta
+  {
+    text-align: center;
+  }
+}
+.Download-button
+{
+  margin: 1rem;
+}
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.social-icon
+{
+  margin:20px 10px;
+  
+}
